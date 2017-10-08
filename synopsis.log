@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.6)  8 OCT 2017 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.6)  9 OCT 2017 02:34
 entering extended mode
 **./synopsis.tex
 (synopsis.tex
@@ -125,14 +125,14 @@ LaTeX Font Info:    ... okay on input line 13.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=398.3386pt
-* \textheight=731.23584pt
+* \textheight=674.33032pt
 * \oddsidemargin=41.54103pt
 * \evensidemargin=41.54103pt
-* \topmargin=-52.36449pt
+* \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -253,113 +253,395 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-<images/Untitled.png, id=9, 803.0pt x 602.25pt>
+[2 <./images/Untitled1.png>] <images/Untitled.png, id=13, 803.0pt x 602.25pt>
 File: images/Untitled.png Graphic file (type png)
- <use images/Untitled.png>
-Package pdftex.def Info: images/Untitled.png used on input line 27.
+
+<use images/Untitled.png>
+Package pdftex.def Info: images/Untitled.png used on input line 30.
 (pdftex.def)             Requested size: 398.3386pt x 298.76253pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 27--28
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 30--31
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-[2 <./images/Untitled1.png>]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ‘ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-[3 <./images/Untitled.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[3 <./images/Untitled.png>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-[5] (synopsis.bbl
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+[5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 70.
+
+Overfull \hbox (0.7333pt too wide) in paragraph at lines 74--74
+[]\OT1/cmr/m/n/12 Year| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\OT1/cmr/m/n/12 IEEE Trans-ac-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 76--76
+\OT1/cmr/m/n/12 edge and Data
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 76--76
+[]\OT1/cmr/m/n/12 2005| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/cmr/m/n/12 om-mender sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/cmr/m/n/12 with their lim-i-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/cmr/m/n/12 tions and pos-si-ble
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 78--78
+[]\OT1/cmr/m/n/12 Expert Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/cmr/m/n/12 with Ap-pli-ca-
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 78--78
+[]\OT1/cmr/m/n/12 2012| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]\OT1/cmr/m/n/12 Only Jour-nals pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\OT1/cmr/m/n/12 Research
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 does not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 Con-fer-ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 Pa-pers
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 G. Lin-den, B.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 IEEE In-ter-net
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 2003| 
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/12 Amazon's Al-go-rithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/cmr/m/n/12 per-for-mance, Good
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]\OT1/cmr/m/n/12 Proceedings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 of the 10th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 in-ter-na-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 con-fer-ence on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 World Wide
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 82--82
+[]\OT1/cmr/m/n/12 2001| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 Ma-trix fac-tor-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\OT1/cmr/m/n/12 on Rec-om-mender
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 ACM SI-GIR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 con-fer-ence on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 Re-search and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 de-vel-op-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 in in-for-ma-tion
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 2002| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]\OT1/cmr/m/n/12 Novel Method of
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 Met-ric for ef-fec-tive-
+ []
+
+
+Overfull \hbox (0.5464pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/m/n/12 Communications
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/m/n/12 1997| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/12 Recommender
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 Sys-tems Hand-
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/12 2011| 
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 90--90
+[]\OT1/cmr/m/n/12 M.D. Ek-strand
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 90.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]\OT1/cmr/m/n/12 Foundations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 and Trends[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 in Human--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/cmr/m/n/12 Computer
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 90--90
+[]\OT1/cmr/m/n/12 2011| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]\OT1/cmr/m/n/12 F. Ricci, L.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 Rokach, B.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]\OT1/cmr/m/n/12 Recommender
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 92--92
+\OT1/cmr/m/n/12 Sys-tems Hand-
+ []
+
+
+Overfull \hbox (0.73747pt too wide) in paragraph at lines 92--92
+[]\OT1/cmr/m/n/12 2011| 
+ []
+
+
+Overfull \hbox (25.85674pt too wide) in paragraph at lines 70--95
+ [] 
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+[8] [9] (synopsis.bbl
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 71.
-)
-[6] (synopsis.aux) ) 
+) [10] (synopsis.aux) ) 
 Here is how much of TeX's memory you used:
- 2177 strings out of 493335
- 31164 string characters out of 3139270
- 96678 words of memory out of 3000000
- 5690 multiletter control sequences out of 15000+200000
+ 2178 strings out of 493335
+ 31178 string characters out of 3139270
+ 101661 words of memory out of 3000000
+ 5691 multiletter control sequences out of 15000+200000
  9155 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,32p,1022b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on synopsis.pdf (6 pages, 405734 bytes).
+ 38i,14n,32p,1022b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on synopsis.pdf (10 pages, 414270 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
