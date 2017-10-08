@@ -17,18 +17,50 @@
 
 	\textit{"What our investors see in the technology is the fact that we\’ve been able to bridge that gap."}
 
-	Recommender systems have become the most popularly unpopular area in the field of machine learning. It is being used widely yet it is behind the noticable frame of people's vision. Recommender System has the field structure of the 
+	Recommender systems have become the most popularly unpopular area in the field of machine learning. It is being used widely yet it is behind the noticable frame of people's vision.
+	Recommender systems have been the major milestones in the application of Computer Science to
+	other areas. This can be categorized into collaborative-filtering, content based RS and some Hybrid
+	Approaches.
+Content-based RS focuses on building user profile of a single user for recommendations while
+collaborative-filtering(CF) RS uses data from fellow users/peers to recommend a particular user.
+Content-based RS has its roots in Information Retrieval, utility function is defined for each item for a
+user based on the history of the user purchases, searches, etc. Usually, higher the utility function
+value, higher is the preference for recommendation. Limited feature Extraction leads to limited
+possible recommendations. Also, only domain specific recommendations can be inferred. New user
+problem exists for the both kind of the RS systems. Almost no information is present about the new
+users into the application environment.\\
+
+Collaborative-filtering techniques create user groups/clusters based on similar tastes/browsing habits,
+and few techniques consider stereotypes for peer groups. And collaborative-filtering is of two types
+based on the data mining techniques; heuristics (memory) based, model-based CF. Both techniques
+have decent application in the industry for real world problem solving. Improvements have been
+shown in the combined use of these data mining techniques.
+In memory-based CF, similarity among users is calculated using cosines of the user matrices.
+Correlation and similarity are calculated by heuristic techniques.Heuristics basically work by
+aggregation or summation(∑) of the past activities of the users who are similar to a user for whom
+recommendations are required. Another is Model-based CF, models are prepared based on ANN,
+K-means clustering, Gibbs sampling, Probabilistic latent semantic analysis, generative semantics of
+latent Dirichlet Allocation. CF recommendation systems also faces few issues; new item problem, in
+which recommendations of this new item are not made to any use because of the shortage of the data;
+Sparsity, this issue arises for a user whose tastes are fairly diverse from the other users which
+increases hardness of the recommendations. Demographic-based filtering and preference-based
+filtering could be helpful with these kind of limitations. Preference-based filtering is currently high
+on research and industry use.\\
+
+	\section{Literature Review}
 
 	\section{Problem Formulation}
 
-	\textbf{}	\\
-	\textit{	One side amputated above knee or below \\
-		Both sides amputated above and below knee\\
-		Both sides amputated with one side above knee and the other below knee\\
-	}
+	\textbf{}	\\Producing high quality recommendations, performing many recommendations per second for millions of users and items and achieving high coverage in the face of data sparsity. In traditional collaborative ltering systems the amount of work increases with the n umber of participants in the system. New recommender system technologies are needed that can quickly produce high quality recommendations, even for very large-scale problems. To address these issues we have explored item-based collaborative filtering techniques. Item-based techniques first analyze the user-item matrix to identify relationships between different items, and then use these relationships to indirectly compute recommendations for users. 
 
 	\section{Objectives}
-	\textbf{Running Projects:}\\
+	\begin{enumerate}
+		\item{To review performance existing algorithms for high quality results in the recommendations.}
+		\item{To produce improved performance and novel methods and techniques.}
+		\item{Implement the recommender systems in the Python Language.}
+		\item{Comparison of the Algorithms and Ismproved versions.}
+	\end{enumerate}
+	\textbf{}\\
 
 
 
@@ -39,7 +71,8 @@
 	\cite{schein2002methods}
 	 
 	\begin{figure}
-		% \includegraphics[width=\linewidth]{hdfsclientcluster}\\
+		\includegraphics[width=\linewidth]{Untitled}\\
+		\includegraphics[width=\linewidth]{Untitled1}\\
 		\textbf{}\\
 	\end{figure}
 	
