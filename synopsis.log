@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.6)  8 OCT 2017 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.6)  8 OCT 2017 22:09
 entering extended mode
 **./synopsis.tex
 (synopsis.tex
@@ -221,63 +221,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
 <images/Untitled1.png, id=1, 803.0pt x 602.25pt>
 File: images/Untitled1.png Graphic file (type png)
  <use images/Untitled1.png>
-Package pdftex.def Info: images/Untitled1.png used on input line 20.
+Package pdftex.def Info: images/Untitled1.png used on input line 21.
 (pdftex.def)             Requested size: 398.3386pt x 298.76253pt.
 
-Overfull \hbox (12.96567pt too wide) in paragraph at lines 19--22
-\OT1/cmr/m/n/12 men-da-tions while collaborative-filtering(CF) RS uses data fro
-m fel-low users/peers
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 21--22
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
 <images/Untitled.png, id=9, 803.0pt x 602.25pt>
 File: images/Untitled.png Graphic file (type png)
  <use images/Untitled.png>
-Package pdftex.def Info: images/Untitled.png used on input line 24.
+Package pdftex.def Info: images/Untitled.png used on input line 27.
 (pdftex.def)             Requested size: 398.3386pt x 298.76253pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 27--28
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[2 <./images/Untitled1.png>]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ‘ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[2 <./images/Untitled1.png>] [3 <./images/Untitled.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
+[3 <./images/Untitled.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -292,8 +292,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
@@ -327,7 +357,7 @@ Here is how much of TeX's memory you used:
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on synopsis.pdf (6 pages, 405101 bytes).
+Output written on synopsis.pdf (6 pages, 405734 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

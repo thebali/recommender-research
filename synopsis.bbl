@@ -21,11 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{konstan1997grouplens}
-J.~A. Konstan, B.~N. Miller, D.~Maltz, J.~L. Herlocker, L.~R. Gordon, and
-  J.~Riedl, ``Grouplens: applying collaborative filtering to usenet news,''
-  \emph{Communications of the ACM}, vol.~40, no.~3, pp. 77--87, 1997.
-
 \bibitem{adomavicius2005toward}
 G.~Adomavicius and A.~Tuzhilin, ``Toward the next generation of recommender
   systems: A survey of the state-of-the-art and possible extensions,''
@@ -47,6 +42,11 @@ B.~Sarwar, G.~Karypis, J.~Konstan, and J.~Riedl, ``Item-based collaborative
   filtering recommendation algorithms,'' in \emph{Proceedings of the 10th
   international conference on World Wide Web}.\hskip 1em plus 0.5em minus
   0.4em\relax ACM, 2001, pp. 285--295.
+
+\bibitem{konstan1997grouplens}
+J.~A. Konstan, B.~N. Miller, D.~Maltz, J.~L. Herlocker, L.~R. Gordon, and
+  J.~Riedl, ``Grouplens: applying collaborative filtering to usenet news,''
+  \emph{Communications of the ACM}, vol.~40, no.~3, pp. 77--87, 1997.
 
 \bibitem{schein2002methods}
 A.~I. Schein, A.~Popescul, L.~H. Ungar, and D.~M. Pennock, ``Methods and
